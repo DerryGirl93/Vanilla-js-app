@@ -1,0 +1,24 @@
+h1 {
+  font-size: 120px;
+  color: #2f4858;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+
+.weather-app {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+body {
+  width: 100%;
+}
+html {
+  height: 100%;
+}
